@@ -1,0 +1,11 @@
+object oriented programiing relationship
+
+2 type of relationhips
+    inheritaion is isRelation
+    has a relationship (composition and agreegation )
+        nirborshil na auto create hote pare ta hocche aggreegations
+        child indipendent hole aggrigation and child independent na hole compositon 
+
+
+    avility of creating new class from exesting class
+
