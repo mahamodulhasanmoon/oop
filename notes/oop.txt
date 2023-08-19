@@ -1,0 +1,49 @@
+procedural programming
+    code duplication problem
+    large code is hard to manage
+    difficult to tracing and bug fixing
+    data exposed to whole programme
+    operation priority is higher than data 
+    dificult to relate  deal with data 
+
+
+object oriented programming
+    code resuablity
+    class is templete of object 
+        constructor
+        attribute (attribute)
+        function (methods)
+
+play with class and object for object oriented Programming.
+
+
+what is class ?
+ ans: class is A templete  to create multiple object
+        shape of data is properties or attributes 
+
+        
+        there is 2 type of methods(function of oop)
+         1.private (helper )
+         2.public (front face)
+
+details about object.
+ anything that need multiple attribute or multiple primitives to define
+
+
+class is A blueprint to create multiple object
+
+object is combinition of noun , adjective and verb.
+A capsukate that can encapsulate Data and operatiors
+some function s which is called methodsis A custom Datatypes
+
+main piller of object oriented  programing 
+
+  
+abstruction
+
+encapsulation
+    state
+    methods
+     
+inheritance
+polymorphism (many  forms)

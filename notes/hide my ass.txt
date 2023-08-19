@@ -1,0 +1,4 @@
+understand the concept behind abstruction
+
+abstruction mean hide implementation details
+  
