@@ -1,1 +1,11 @@
 polymorphsm mane hocche bohurupi
+
+2 step
+    compile time
+        constructor overloading (java , C#)
+        operator overloading 
+        function overloading
+        function overriding
+
+    run time
+        virtual function

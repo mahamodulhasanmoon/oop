@@ -1,0 +1,8 @@
+OOP Case Studies
+
+client Requirements:
+
+build university management system where admin can manage students , gurdians,teachers,staff,depertments,subjects,exams,and accounts.
+
+admin can create update delete and manage all resources
+
