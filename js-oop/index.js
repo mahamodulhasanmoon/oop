@@ -9,7 +9,7 @@ console.log(person);
 class Person {
 
     constructor (name,email){
-        this.name = name
+        this._name = name
         this.email = email
         console.log(this)
     }
@@ -22,12 +22,16 @@ class Person {
         console.log('send email')
         console.log(msg)
     }
+    getName () { 
+        return this._name
+    }
+    getEmail () { 
+        return this._email
+    }
 }
 // now create and instance
 const p1 = new Person('moon','moon@gmail.com')
 const p2 = new Person('bedoha','test@gmail.com')
-// const p3 = new Person('salvi','salvi@gmail.com')
 
-console.log(p1)
-console.log(p2)
-p2.sendEmail('test@gmail.com')
+console.log(p1.getName(), p2.getEmail())
+

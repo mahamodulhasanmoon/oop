@@ -8,7 +8,7 @@ class Person{
         this.name = name;
     }
     public String getName(){
-        return this.name;
+        return this.name.split(" ");
     }
     public static Person create(String name){
         return new Person(name);
